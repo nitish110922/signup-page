@@ -1,0 +1,14 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+
+.auth-form-container{
+    text-align: center;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
